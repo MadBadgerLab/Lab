@@ -1,0 +1,10 @@
+Role|HostName|IP|Domain|DNS1|DNS2|
+DC|MadLabDC1|10.0.0.180|MadBadger.lab|10.0.0.180|10.0.0.181
+DC|MadLabDC2|10.0.0.181|MadBadger.lab|10.0.0.181|10.0.0.180
+Admin|MadLabAdmin|10.0.0.182|MadBadger.lab|10.0.0.180|10.0.0.181
+CARoot|MadLabCARoot|10.0.0.183|MadBadger.lab|10.0.0.180|10.0.0.181
+CAIssuing|MadLabCA|10.0.0.184|MadBadger.lab|10.0.0.180|10.0.0.181
+ADFS|MadLabADFS1|10.0.0.185|MadBadger.lab|10.0.0.180|10.0.0.181
+ADFS|MadLabADFS2|10.0.0.186|MadBadger.lab|10.0.0.180|10.0.0.181
+FileServer|MadLabFS1|10.0.0.187|MadBadger.lab|10.0.0.180|10.0.0.181
+FileServer|MadLabFS2|10.0.0.188|MadBadger.lab|10.0.0.180|10.0.0.181
